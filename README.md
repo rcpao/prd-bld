@@ -1,5 +1,8 @@
 # prd-bld
 
+
+
+```
 git clone https://github.com/01org/prd
 cd prd
 
@@ -13,3 +16,7 @@ make olddefconfig
 make -j10
 sudo make modules_install
 sudo make install
+```
+
+
+
