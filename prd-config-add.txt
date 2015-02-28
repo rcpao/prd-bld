@@ -1,0 +1,8 @@
+
+# https://github.com/rcpao/prd-bld.git
+# CONFIG_BLK_DEV_PMEM is not set
+CONFIG_BLK_DEV_PMEM=m
+CONFIG_BLK_DEV_PMEM_START=0
+CONFIG_BLK_DEV_PMEM_COUNT=4
+CONFIG_BLK_DEV_PMEM_SIZE=0
+
